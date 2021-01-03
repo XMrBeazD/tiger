@@ -70,7 +70,7 @@ def buildblock(size):
 	return(out_str)
 
 def usage():
-      os.system("clear)
+      os.system("clear")
 	print '\033[32m------------------------------------------------'
     print '[ Author : XMrBeazD ]'
     print '[ Github : https://github.com/tiger ]'
