@@ -71,14 +71,14 @@ def buildblock(size):
 
 def usage():
       os.system("clear")
-    print "\033[32m================================================"
-    print "[ Author : XMrBeazD ]"
+    print "================================================"
+    print "\033[32m[ Author : XMrBeazD ]"
     print "[ Github : https://github.com/tiger ]"
     print "[ Instagram : https://instagram.com/suwandi_so ]"
     print "[ Metode : python ]\033[0m"
     print "\033[91mUSAGE : python2 tiger.py <url>\033[0m"
-    print "\033[32myou can add "safe" after url, to autoshut after dos"
-    print "================================================\033[0m"
+    print "\033[32myou can add "safe" after url, to autoshut after dos\033[0m"
+    print "================================================"
 
 	
 #http request
