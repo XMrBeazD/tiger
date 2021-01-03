@@ -141,6 +141,9 @@ else:
 		sys.exit()
 	else:
 		os.system("clear")
+                print "\033[32m[Author : MrBeazD]
+                print "[WhatsApp : 085261903898]
+                print "[Instagram : https://instagram.com/suwandi_so]\033[0m"
 		print "\033[32m[~>>] [ TIGER Attack Started! ] [<<~]\033[0m"
 		if len(sys.argv)== 3:
 			if sys.argv[2]=="safe":
