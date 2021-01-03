@@ -71,10 +71,10 @@ def buildblock(size):
 
 def usage():
 	print '------------------------------------------------'
-    print '[ Author : XMrBeazD ]'
-    print '[ Github : https://github.com/tiger ]'
-    print '[ Instagram : https://instagram.com/suwandi_so ]'
-    print '[ Metode : python ]\033[0m'
+    print '[Author : XMrBeazD]'
+    print '[Github : https://github.com/tiger]'
+    print '[Instagram : https://instagram.com/suwandi_so]'
+    print '[Metode : python]\033[0m'
     print 'USAGE : python2 tiger.py <url>'
 	print 'you can add "safe" after url, to autoshut after dos'
 	print '------------------------------------------------'
