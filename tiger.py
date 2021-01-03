@@ -1,11 +1,11 @@
 # ----------------------------------------------------------------------------------------------
-# TIGER - HTTP Unbearable Load King
+# HULK - HTTP Unbearable Load King
 #
-# this tool is a ddos tool that is meant to put heavy load on HTTP servers in order to bring them
+# this tool is a dos tool that is meant to put heavy load on HTTP servers in order to bring them
 # to their knees by exhausting the resource pool, its is meant for research purposes only
 # and any malicious usage of this tool is prohibited.
 #
-# author : XMrBeazD , version 1.0
+# author :  Barry Shteiman , version 1.0
 # ----------------------------------------------------------------------------------------------
 import urllib2
 import sys
@@ -70,14 +70,10 @@ def buildblock(size):
 	return(out_str)
 
 def usage():
-	print '------------------------------------------------'
-    print '[Author : XMrBeazD]'
-    print '[Github : https://github.com/tiger]'
-    print '[Instagram : https://instagram.com/suwandi_so]'
-    print '[Metode : python]\033[0m'
-    print 'USAGE : python2 tiger.py <url>'
+	print '---------------------------------------------------'
+	print 'USAGE: python2 hulk.py <url>'
 	print 'you can add "safe" after url, to autoshut after dos'
-	print '------------------------------------------------'
+	print '---------------------------------------------------'
 
 	
 #http request
